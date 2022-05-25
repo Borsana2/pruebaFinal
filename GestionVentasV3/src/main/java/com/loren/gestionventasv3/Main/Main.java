@@ -370,6 +370,7 @@ public class Main {
         System.out.println("5.- Buscar comercial por nombre.");
         System.out.println("6.- Buscar comercial por apellido con like.");
         System.out.println("7.- Listar comerciales.");
+        System.out.println("7.5 - Prueba de menu");
         System.out.println("8.- Salir.");
     }
 
